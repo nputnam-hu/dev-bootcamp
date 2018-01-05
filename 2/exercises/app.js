@@ -26,7 +26,7 @@ for (let i = 0; i < deleteThis.length; i++) {
 
 
 
-// by the time you get to this point, jordan will have pushed a new commit
+// by the time you get to this point, Noah will have pushed a new commit
 // updating ./students.js
 // import that array into this file, and write an endpoint at GET /partners
 // that randomly pairs students. feel free to use whatever data structure you
