@@ -6,11 +6,17 @@ This doc will serve as a guide on how to run projects at DEV.  Please read it ca
 - [PM Practices](#pm-practices)
 - [Accountability](#accountability)
   - [Mindset](#mindset)
+  - [Issues](#issues)
+  - [Library Code](#library-code)
 - [Working with Clients](#working-with-clients)
 
 ## Getting Started
 So you're running a project at DEV
 ## PM Practices
 #### Mindset
+#### Issues
+#### Library Code
+###### Using
+###### Contributing
 ## Accountability
 ## Working with Clients
